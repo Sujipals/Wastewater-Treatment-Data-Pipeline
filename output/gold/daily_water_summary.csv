@@ -1,0 +1,2 @@
+log_date,total_readings,total_alerts,critical_alerts,warning_alerts,avg_flow_rate_m3h,avg_ph,avg_dissolved_oxygen_mgL
+2026-10-22,96,5,3,2,523.51,7.27,2.58
